@@ -1,0 +1,71 @@
+body{
+    color: black;
+	background-color:lightgray;
+    background-image: url("pildid/lehed_servale.png");
+	background-repeat: no-repeat;
+	/*background-position:700px 100px;*/
+	background-attachment:fixed;
+	background-repeat: repeat-y;
+	margin-left:50px;
+}
+
+h1, h2{
+  color : #FF8000;
+  
+}
+
+h1{
+   text-transform:uppercase;
+    text-align:center;
+}
+
+h2{
+   /* text-transform v‰‰rtused: lowercase, capitalize*/
+   font-variant:small-caps;
+}
+
+p,ul,ol,address{
+  font-family: "hobostd", "arial", "verdana", "verdana", "sans-seriff" ;
+  font-size:1.25em ;
+}
+
+p{
+  text-indent:20px;
+
+}
+
+
+
+q{
+  font-style: normal;
+}
+
+dt{
+  font-weight: 900;
+  text-decoration: overline;
+}
+
+span.punane {
+    color:#AA0000;
+
+}
+
+span.marker {
+    background-color:#FF8000;
+
+}
+
+
+div{
+   width: 455px;
+   height: 440px;
+   opacity: 0.75 ;
+ 
+
+}
+
+img{
+   border: 0px;
+
+
+}
